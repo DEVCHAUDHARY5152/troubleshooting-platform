@@ -41,6 +41,12 @@ Team Lead: N Jitesh Nayak
 Developer: Dev Chaudhary
 Developer: Md Altamas Alam
 
+## 👥 Team Contributions
+
+- N Jitesh Nayak – Project Lead, Backend Development  
+- Dev Chaudhary – Frontend Development, UI Design  
+- Md Altamas Alam – Integration, Testing & Debugging  
+
 🎯 Future Improvements
 Database integration (MongoDB)
 JWT Authentication
